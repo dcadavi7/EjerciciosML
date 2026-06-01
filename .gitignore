@@ -16,13 +16,7 @@ __pycache__/
 **data/
 
 #  content-specific
-/08-deep-learning/clothing-dataset-small/
-/08-deep-learning/clothing-dataset/
-/08-deep-learning/ImageClassification/
-/08-deep-learning/my_dir/
-
-/09-serverless/clothing-model/
-/09-serverless/clothing-model/
+EjerciciosRegularizacion.txt
 
 **midterms_evaluations/
 **samples/
